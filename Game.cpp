@@ -34,6 +34,8 @@ void Game::run()
 		}
 		update();
 		draw();
+
+
 	}
 
 }
